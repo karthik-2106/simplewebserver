@@ -87,12 +87,12 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-03-14 at 14 17 02_26cbc46f](https://github.com/karthik-2106/simplewebserver/assets/150319557/906bddcb-5e9b-4a00-b43f-3ab867c48e1b)
+![WhatsApp Image 2024-03-14 at 14 17 02_26cbc46f](https://github.com/karthik-2106/simplewebserver/assets/150319557/4b1d1eb7-6fef-4ad5-8ebb-cc128c37c270)
 
 
 
-![Screenshot 2024-03-14 140743](https://github.com/karthik-2106/simplewebserver/assets/150319557/af416e2e-01c1-435f-87c2-31748d58fa1d)
 
 
+![Screenshot 2024-03-14 140743](https://github.com/karthik-2106/simplewebserver/assets/150319557/64726577-d6ec-4919-bb14-67de0e784355)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
